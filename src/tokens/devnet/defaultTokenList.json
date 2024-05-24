@@ -46,10 +46,10 @@
     {
       "chainId": 137,
       "address": "0x0000000000000000000000000000000000000000",
-      "symbol": "BERA",
-      "name": "Berachain Token",
+      "symbol": "MATIC",
+      "name": "Matic Token",
       "decimals": 18,
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
+      "logoURI": "https://polygonscan.com/assets/poly/images/svg/logos/token-light.svg?v=24.5.3.0",
       "tags": ["featured"]
     },
     {
